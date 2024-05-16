@@ -1,0 +1,12 @@
+{
+    "id": "5",
+    "name": "balu",
+    "phone": "566577585",
+    "courses": [
+        "C",
+        "Python",
+        "C++",
+        "Java"
+    ],
+    "location": "hyd"
+}
